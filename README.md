@@ -1,5 +1,6 @@
 # RNN_TFIDF_PyTorch_Text_Classification
 Binary Text Classification using TF-IDF, RNN architecture and PyTorch in the GOOGLE COLLAB environment.
+
 *dataset can be obtained from https://drive.google.com/drive/folders/1qJ0LZpZYvtCU-GQrGIrKqUmO_nVzrPw8?usp=sharing
 
 The training dataset has reviews, and a flag denoting whether it had a positive sentiment or negative (binary). The task is to classify a given review as positive or negative. 
