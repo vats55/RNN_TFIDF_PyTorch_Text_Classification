@@ -18,7 +18,8 @@ But we have considered TF-IDF for this binary text classification problem. A bri
 
 Next is to use Recurrent Neural Network architecture to train our model and make predictions over a validation dataset. The performance is then evaluated by comparing to the ground truth labels known and the predicted labels obtained from model. 
 
-https://github.com/vats55/RNN_TFIDF_PyTorch_Text_Classification/issues/1#issue-741774922
+<img width="560" alt="Screen Shot 2020-11-12 at 12 09 52 PM" src="https://user-images.githubusercontent.com/56598403/98972149-0e87ff00-24e0-11eb-9e95-39b311930ef5.png">
+
 
 *Have made sure to include comments where ever necessary for reader's reference. 
 
